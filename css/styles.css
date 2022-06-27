@@ -1,0 +1,22 @@
+body {
+    background-color: #ADCF9F
+  }
+
+
+  hr {
+  
+    border-top-style: dotted;
+    border-bottom-style: none;
+    width: 5%;
+    border-color: gray;
+    border-width: 6px;
+  }
+
+  h1 {
+    color: #66BFBF;
+    font-family: Arial, Times, serif;
+  }
+
+  h3 {
+    color: #0c5252;
+  }
